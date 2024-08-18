@@ -1,0 +1,6 @@
+names:
+- BurnedCandle
+- Candle
+nc: 2
+train: ../dataset/train/images
+val: ../dataset/valid/images
